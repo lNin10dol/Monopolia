@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\bin\Debug\MonopoliaUpgrate.exe.config
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\bin\Debug\MonopoliaUpgrate.exe
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\bin\Debug\MonopoliaUpgrate.pdb
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\GamePage.g.cs
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate_MarkupCompile.cache
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate_MarkupCompile.lref
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\GamePage.baml
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.g.resources
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.Properties.Resources.resources
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.exe
+C:\Users\Student\source\repos\MonopoliaUpgrate\MonopoliaUpgrate\obj\Debug\MonopoliaUpgrate.pdb
